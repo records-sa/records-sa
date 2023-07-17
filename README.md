@@ -2,9 +2,8 @@
 
 ### Here is Seoa's github👩🏻‍💻                      
 
-> ✍🏻 I'm learning every day and growing become a developer         
-> 💡 I have enjoyed various experiences and challenges, and I am still working on it
-
+✍🏻 I'm learning every day and growing become a developer.         
+💡 I have enjoyed various experiences and challenges, and I am still working on it.
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=records-sa&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
 
