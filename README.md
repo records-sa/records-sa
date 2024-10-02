@@ -2,7 +2,7 @@
 
 ### Here is Seoa's github👩🏻‍💻                      
 
-✍🏻 I'm learning every day and growing become a developer.         
+✍🏻 I'm learning every day and growing become a Project Manager.         
 💡 I have enjoyed various experiences and challenges, and I am still working on it.
 
 
